@@ -32,6 +32,3 @@ Feel free to use this project as a reference or expand upon it to add more featu
 
 This project is open-source and available under the [MIT License](LICENSE).
 
----
-
-Feel free to customize this README as needed and add any additional information or instructions you think would be helpful for users of your project. Let me know if you have any other questions or need more details!
